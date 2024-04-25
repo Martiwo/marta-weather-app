@@ -1,9 +1,12 @@
 body {
   background-color: #ede8f5;
+  font-family: "Comfortaa", sans-serif;
 }
 .app-box {
   background-color: white;
   max-width: 600px;
   margin: 60px auto;
-  padding: 20px;
+  padding: 50px;
+  box-shadow: 0 30px 30px rgba(173, 186, 218, 0.1);
+  border-radius: 20px;
 }
