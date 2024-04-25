@@ -10,3 +10,23 @@ body {
   box-shadow: 0 30px 30px rgba(173, 186, 218, 0.1);
   border-radius: 20px;
 }
+
+.search-form-imput {
+  background-color: #ede8f5;
+  border: none;
+  border-radius: 20px;
+  width: 60%;
+  padding: 15px 15px;
+  font-size: 15px;
+  font-family: "Comfortaa", sans-serif;
+}
+.search-form-button {
+  background-color: #ede8f5;
+  border-color: #8697c4;
+  border-radius: 20px;
+  width: 20%;
+  padding: 15px 15px;
+  font-size: 15px;
+  font-family: "Comfortaa", sans-serif;
+  font-style: #8697c4;
+}
