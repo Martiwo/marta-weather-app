@@ -15,19 +15,20 @@
   <body>
     <div class="app-box">
       <header>
-        <form class="search-form">
+        <form class="search-form" id="search-form">
           <input
             type="search"
             placeholder="Enter a city"
             required
             class="search-form-imput"
+            id="search-form-imput"
           />
           <input type="submit" value="search" class="search-form-button" />
         </form>
       </header>
       <main>
         <div>
-          <h1>City</h1>
+          <h1 class="weather-app-city" id="city">City</h1>
           <p>date</p>
           <p>🌟</p>
           <p>temaperature 23°C</p>
