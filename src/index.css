@@ -2,6 +2,9 @@ body {
   background-color: #ede8f5;
   font-family: "Comfortaa", sans-serif;
 }
+a {
+  color: #8697c4;
+}
 .app-box {
   background-color: white;
   max-width: 600px;
@@ -11,22 +14,34 @@ body {
   border-radius: 20px;
 }
 
+header {
+  border-bottom: 1px solid #ede8f5;
+  padding: 0 0 40px 0;
+}
 .search-form-imput {
   background-color: #ede8f5;
   border: none;
-  border-radius: 20px;
+  border-radius: 10px;
   width: 60%;
   padding: 15px 15px;
   font-size: 15px;
   font-family: "Comfortaa", sans-serif;
 }
 .search-form-button {
-  background-color: #ede8f5;
+  background-color: #adbbda;
   border-color: #8697c4;
   border-radius: 20px;
   width: 20%;
   padding: 15px 15px;
   font-size: 15px;
   font-family: "Comfortaa", sans-serif;
-  font-style: #8697c4;
+  color: white;
+  margin-left: 5px;
+}
+footer {
+  border-top: 1px solid #ede8f5;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.5);
 }
