@@ -1,9 +1,9 @@
 body {
-  background-color: #feffd2;
+  background-color: #d9ed92;
   font-family: "Comfortaa", sans-serif;
 }
 a {
-  color: #ff7d29;
+  color: #184e77;
 }
 .app-box {
   background-color: white;
@@ -15,22 +15,22 @@ a {
 }
 
 header {
-  border-bottom: 1px solid #ff7d29;
+  border-bottom: 1px solid #184e77;
   padding: 0 0 40px 0;
 }
 .search-form-imput {
-  background-color: #ffeea9;
-  border: none;
+  background-color: white;
+  border-color: #34a0a4;
   border-radius: 10px;
   width: 60%;
   padding: 15px 15px;
   font-size: 15px;
   font-family: "Comfortaa", sans-serif;
-  color: #ff7d29;
+  color: #1e6091;
 }
 .search-form-button {
-  background-color: #ffbf78;
-  border-color: #ff7d29;
+  background-color: #52b69a;
+  border-color: #52b69a;
   border-radius: 20px;
   width: 20%;
   padding: 15px 15px;
@@ -41,12 +41,12 @@ header {
 }
 .search-form-imput:hover {
   cursor: text;
-  background-color: #ffeea9;
-  border-color: #ff7d29;
+  background-color: #d9ed92;
+  border-color: #52b69a;
   border: 20px;
 }
 footer {
-  border-top: 1px solid #ff7d29;
+  border-top: 1px solid #184e77;
   padding: 15px 0;
   text-align: center;
   font-size: 15px;
