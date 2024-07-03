@@ -49,11 +49,33 @@ header {
   background-color: #99d98c;
   border-color: #52b69a;
 }
+main {
+  padding: 20px 0;
+}
+.weather-app-city {
+  margin: 20px 0 10px;
+  font-size: 38px;
+  font-weight: 700;
+  color: #184e77;
+}
+.weather-app-data {
+  display: flex;
+  justify-content: space-between;
+}
+.weather-app-conditions {
+  font-size: 16px;
+  font-weight: 600;
+}
+.weather-app-temp {
+  font-size: 50px;
+  line-height: 20px;
+}
 
 footer {
   border-top: 1px solid #184e77;
   padding: 30px 0;
   text-align: center;
+
   font-size: 15px;
   color: rgba(0, 0, 0, 0.5);
 }
