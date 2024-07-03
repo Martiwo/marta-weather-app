@@ -67,16 +67,20 @@ main {
   font-weight: 600;
 }
 .weather-app-emoji {
-  font-size: 50px;
+  font-size: 35px;
   line-height: 20px;
+  margin-top: 50px;
 }
 .weather-app-temp {
   font-size: 50px;
   line-height: 20px;
+  font-weight: bold;
+  margin-top: 50px;
 }
 .weather-app-unit {
-  font-size: 50px;
+  font-size: 20px;
   line-height: 20px;
+  margin-top: 40px;
 }
 .weather-app-container {
   display: flex;
